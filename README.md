@@ -1,5 +1,8 @@
 # Paquexpress - Evaluación 3
 
+Video de cómo funciona la aplicación:
+https://youtu.be/1IYdKWRPQRs
+
 Proyecto de ejemplo para gestión de entregas de paquetes con evidencia de foto y ubicación GPS.
 
 Incluye:
