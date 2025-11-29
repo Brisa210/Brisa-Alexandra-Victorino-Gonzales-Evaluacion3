@@ -1,0 +1,17 @@
+# Python
+evaluacion3_api/venv/
+evaluacion3_api/__pycache__/
+*.pyc
+
+# Flutter / Dart
+evaluacion3_flutter/.dart_tool/
+evaluacion3_flutter/.idea/
+evaluacion3_flutter/.vscode/
+evaluacion3_flutter/build/
+
+# SO / editor
+.DS_Store
+Thumbs.db
+
+# Subidas
+evaluacion3_api/uploads/
